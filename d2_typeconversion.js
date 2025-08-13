@@ -1,4 +1,4 @@
-// in this code i learn type consion and typeof data store 
+// in this code i learn type conversion and typeof data store 
 let stringnumber = 56
 let stringnumbery = String (stringnumber)
 console.log(stringnumbery);

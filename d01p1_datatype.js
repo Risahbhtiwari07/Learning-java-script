@@ -1,4 +1,4 @@
-// in this code i learn strict and num variable stored null and undefined datatpe
+// in this code i learn strict and num variable stored null and undefined datatype
 "use strict";//treat all js  code as newer version
 
 //alert(3 + 3 );WE ARE USING NODE JS ,NOT BROWSER

@@ -1,6 +1,5 @@
 //in this code i learn to add str and operation arithmetic and basic function syntax
 /////////*******OPERATION******** *///////////
-
 // const { userOne } = require("./userOne");
 
 
