@@ -1,5 +1,5 @@
 // in this code i learn strict and num variable stored null and undefined datatype
-"use strict";//treat all js  code as newer version
+"use strict";//in this treat all js  code as newer version
 
 //alert(3 + 3 );WE ARE USING NODE JS ,NOT BROWSER
 console.log(3 + 3 );

@@ -3,7 +3,7 @@ const accountid = 2.8
 let accountemail = "rt8932484@gmail,com"
 var accountpass = "12345"
 
-accountcity = "deoria"
+accountcity = "deoriaa"
 let accountstate;
 // accountid = 2
 accountemail = "rt@gmail.com"
