@@ -22,14 +22,13 @@ console.log(newString);//substring do no. range to output their character
 
 const anotherString = gameName.slice(-5,4)// it can take negativ value from there char 
 
-console.log(anotherString);
+console.log(anotherString);//
  
 const newStringOne = "    Rishabh    "
 console.log(newStringOne);
 console.log(newStringOne.trim());//trim do space remove in string by using this 
 
-const url = "https://rishabh.com/rishabh%20tiwari"
-
+const url = "https://rishabh.com/rishabh%20tiwari"//
 console.log(url.replace('%20' , '-'))
 console.log(url.includes(' Rishabh '));
 console.log();
