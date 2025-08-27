@@ -21,7 +21,7 @@
 // console.log(2%2);
 
 // let str1 = "hello"
-
+//s
 // let str2 ="Rishabh"
 
 // let str3 = str1 + str2 // strig can add also 
