@@ -3,7 +3,7 @@ let stringnumber = 56
 let stringnumbery = String (stringnumber)
 console.log(stringnumbery);
 console.log(typeof stringnumber);
-
+//;
 // console.log(typeof (score));
 // console.log(typeof score);
 
