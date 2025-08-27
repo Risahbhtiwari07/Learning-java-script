@@ -2,7 +2,7 @@
 // console.log("2" > 1);op true 
 // console.log("02" > 1);op true 
 
-
+//
 // console.log(null == 0);//false op
 // console.log(null < 0);//op false
 // console.log(null < 0);// op false
