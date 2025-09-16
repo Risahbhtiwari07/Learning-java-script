@@ -67,3 +67,4 @@ function returnSecondValue(getArray){
 
 // console.log(returnSecondValue(myNewArray));
 //console.log(returnSecondValue([200, 400, 500, 1000]));
+//if when any curly braces that have scope 
