@@ -11,4 +11,4 @@
 //unnamed iife
 ( (name) => {
     console.log(`db connected two ${name} `);
-} )("rishabh")//
+} )("rishabh")///
